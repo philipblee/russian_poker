@@ -2,7 +2,7 @@
 # each time you click the canvas
 # (images are in GIF format for Tkinter to display properly)
 import datetime
-from deck_wild_v2 import *
+from deck_wild_v1 import *
 from Tkinter import *
 from random import *
 import random
