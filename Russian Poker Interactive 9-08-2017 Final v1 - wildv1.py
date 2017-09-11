@@ -148,7 +148,7 @@ def next_hand(event):
                 
             #card_list2 = list(card_list)
      
-image_dir = "C:/Python27/Cards_gif/"
+image_dir = "Cards_gif/"
  
 # load a sample card to get the size
 photo1 = PhotoImage(file=image_dir+"C2.gif")
